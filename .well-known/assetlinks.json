@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.leosk.tetris",
+        "sha256_cert_fingerprints": ["B5:69:35:EB:6F:E1:23:15:E4:6E:B1:BD:CE:D3:C4:D3:7C:77:DA:DA:EA:0C:9A:EF:05:E5:5A:FB:35:68:AA:48"]
+      }
+    }]
